@@ -1,0 +1,15 @@
+@page {
+    margin: 2cm 1.5cm;
+    @bottom-right {
+        content: counter(page);
+    }
+}
+
+body {
+    font-family: sans-serif;
+}
+
+hr {
+    display: none;
+    break-after: page;
+}

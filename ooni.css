@@ -10,6 +10,10 @@ body {
 }
 
 hr {
-    display: none;
+    background: none;
+    clear: both;
+    height: 1px;
+    border: none;
+    margin: -1px 0;
     break-after: page;
 }

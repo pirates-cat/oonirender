@@ -12,7 +12,7 @@ idna==2.6
 markdown2==2.3.4
 olefile==0.44
 pdfrw==0.4
-Pillow==4.3.0
+Pillow==6.2.0
 pycparser==2.18
 Pygments==2.2.0
 Pyphen==0.9.4

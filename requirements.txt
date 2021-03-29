@@ -14,7 +14,7 @@ olefile==0.44
 pdfrw==0.4
 Pillow==4.3.0
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 Pyphen==0.9.4
 requests==2.18.4
 six==1.11.0
